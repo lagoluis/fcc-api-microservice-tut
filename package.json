@@ -1,6 +1,7 @@
 {
 	"author": "Luis Chavez",
 	"name": "fcc-learn-npm-package-json",
+	"description": "free code camp microservice tutorials",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
