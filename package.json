@@ -5,6 +5,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"license": "license to ill",
 	"keywords": ["freecodecamp", "tutorial", "easy"],
 	"main": "server.js",
 	"scripts": {
