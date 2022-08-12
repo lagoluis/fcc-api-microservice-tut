@@ -5,6 +5,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"keywords": ["free", "code", "camp"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
